@@ -1,4 +1,6 @@
-export type TeamupProps = {};
+export type TeamupProps = {
+
+};
 export function Teamup({}: TeamupProps) {
-    return;
+    return (<div>Team up!</div>);
 }
